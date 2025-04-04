@@ -155,9 +155,3 @@ If you find this tool useful, don't forget to **Star** ⭐ the repo and share it
 
 ---
 
-Let me know if you want to:
-- Add Twitter, Telegram, Bugcrowd, HackerOne links
-- Translate to Hindi version
-- Or make a YouTube video walkthrough for the tool
-
-🔥 Let's make this one go viral on GitHub bro!
